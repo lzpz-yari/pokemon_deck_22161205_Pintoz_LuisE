@@ -34,7 +34,7 @@ npm install
 npm run dev
 ```
 
-Abrir la dirección que muestra Vite (normalmente http://localhost:5173/).
+Abrir la dirección que muestra Vite (normalmente http://localhost:5173).
 
 ## Estructura
 
